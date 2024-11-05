@@ -5,8 +5,11 @@ How to setup:
 - Clone the repository
 
 - Create a virtual environment: and 
-python -m venv venv
-Activate virtual environment on Window: on current project folder type: venv\scripts\activate
+  python -m venv venv
+
+- Activate virtual environment on Window: 
+  on current project folder type: venv\scripts\activate
+  
 - Install requirements:
   pip install -r requirements.txt
 
