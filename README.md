@@ -4,7 +4,7 @@ How to setup:
 
 - Clone the repository
 
-- Create a virtual environment: and 
+- Create a virtual environment:
   python -m venv venv
 
 - Activate virtual environment on Window: 
