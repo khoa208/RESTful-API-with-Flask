@@ -1,5 +1,9 @@
 # RESTful-API-with-Flask
 
+CSUF - Fall 2024
+CPSC449 - Web Back-end 
+KHOA DO
+
 How to setup:
 
 - Clone the repository
