@@ -3,7 +3,8 @@ from flask_jwt_extended import create_access_token, jwt_required
 from werkzeug.security import check_password_hash, generate_password_hash
 
 # Mock user data
-users = {'admin': generate_password_hash('password')}
+users = {'admin': generate_password_hash('password'),
+         'khoa': generate_password_hash('449backend')}
 
 def login():
     data = request.get_json()
